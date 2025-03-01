@@ -1,4 +1,4 @@
-# PORTFOLIO API-INTEGRATION_task1 
+# PORTFOLIO CHAT APPLICATION_task2
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -19,4 +19,4 @@
 # OUTPUT OF THE TASK
 
 
-
+![Image](https://github.com/user-attachments/assets/33c014e8-7968-4200-b781-fa0d2f55811e)
